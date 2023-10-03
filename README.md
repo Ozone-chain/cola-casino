@@ -1,6 +1,6 @@
 # Cola Casino
 
-![Cola Casino Logo](link_to_logo_image)
+![Cola Casino Logo](./images/logo.png)
 
 ## Where Fortune Meets Endless Possibilities
 
